@@ -1,0 +1,15 @@
+body {
+	background-color: #039be5 !important;
+}
+
+.ar-default-homepage {
+	padding: 4rem 5rem;
+	border-radius: .6rem;
+	border: 1px #fff solid;
+}
+
+@media (max-width: 575.98px) {
+	.ar-default-homepage {
+		padding: 1.5rem 2rem;
+	}
+}
